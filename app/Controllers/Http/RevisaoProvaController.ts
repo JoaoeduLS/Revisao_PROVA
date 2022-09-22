@@ -75,10 +75,10 @@ if (salarioliq <= 3500){
 else{
     gratificaçao= salarioliq+ 500
     
-}        
-    }
-
-    }
+}
+return {gratificaçao}        
+}
+}
 
 
 
